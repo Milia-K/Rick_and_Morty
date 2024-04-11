@@ -1,0 +1,13 @@
+*{
+  box-sizing: border-box;
+  font-family: 'Merriweather', serif;
+  margin: 0;
+}
+
+$primary-color: #5c6970;
+$secondary-color:  #b8bcbf;
+
+@font-face {
+  font-family: 'Merriweather';
+  src: url("../public/fonts/Merriweather-Black.ttf");
+}
